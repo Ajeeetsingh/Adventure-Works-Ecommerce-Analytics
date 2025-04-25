@@ -1,6 +1,6 @@
 # Adventure-Works-Ecommerce-Analytics
 Project Overview
-This Power BI project analyzes sample data from Adventure Works, an imaginary e-commerce company. It reshapes the data and provides insights into various business aspects through interactive dashboards, geographical maps, and detailed visualizations.
+This project analyzes sample data from Adventure Works, an imaginary e-commerce company. It reshapes the data and provides insights into various business aspects through interactive dashboards, geographical maps, and detailed visualizations.
 
 Key Features
 
